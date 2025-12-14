@@ -41,7 +41,7 @@ _Muestra mi progreso y consistencia en el código._
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Nonit0&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/Nonit0)
 
-[![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonit0-GITHUB&layout=compact&theme=dracula&hide_border=true)](https://github.com/Nonit0)
+[![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonit0&layout=compact&theme=dracula&hide_border=true)](https://github.com/Nonit0)
 
 ---
 
