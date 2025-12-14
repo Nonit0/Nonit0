@@ -29,8 +29,8 @@ Mi objetivo es dominar un stack versátil que me permita abordar cualquier proye
 
 ### 💡 Intereses y Colaboración
 
-* 🌱  Mi próximo reto es consolidar sobre todas las tecnologías, frameworks y su union yt complementación **buscando ser un FullStack dev en el futuro**.
-* 💻  Busco activamente **prácticas** o proyectos donde aplicar mi conocimiento en **Desarrollo de Apps Móvil | Despliegues de páginas Web]**.
+* 🌱  Mi próximo reto es consolidar sobre todas las tecnologías, frameworks y su union yt complementación **buscando ser un dev FullStack en el futuro**.
+* 💻  Busco activamente **prácticas** o proyectos donde aplicar mi conocimiento en **Desarrollo de Apps Móvil | Despliegues de páginas Web**.
 * 🤝  Estoy abierto a **colaborar** en proyectos Open Source para mejorar mis habilidades de trabajo en equipo y adaptarme a trabajar en grupo.
 
 ---
