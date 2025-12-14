@@ -39,9 +39,9 @@ Mi objetivo es dominar un stack versátil que me permita abordar cualquier proye
 
 _Muestra mi progreso y consistencia en el código._
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/TU-USUARIO-GITHUB)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/Nonit0)
 
-[![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-GITHUB&layout=compact&theme=dracula&hide_border=true)](https://github.com/TU-USUARIO-GITHUB)
+[![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-GITHUB&layout=compact&theme=dracula&hide_border=true)](https://github.com/Nonit0)
 
 ---
 
@@ -49,4 +49,4 @@ _Muestra mi progreso y consistencia en el código._
 
 | Plataforma | Enlace |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([Tu Enlace de LinkedIn]) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-gal%C3%A1n-soto-87140a33a/) |
