@@ -1,4 +1,5 @@
-## ¡Hola Mundo! Soy Antonio Galán Soto - Desarrollador en Formación =D
+## ¡Hola Mundo! 
+## Soy Antonio Galán Soto - Desarrollador en Formación =D
 
 > Estudiante y futuro desarrollador Full-Stack. Transformando ideas en código limpio y eficiente, con foco en el ecosistema Java y JavaScript principalmente.
 
