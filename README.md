@@ -38,11 +38,19 @@ He estructurado mis herramientas para abordar proyectos tanto web como móviles.
 
 ---
 
-### 📊 Mi Actividad en GitHub
+### 🚀 Proyectos Destacados
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Nonit0&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/Nonit0)
+Aquí puedes ver una selección de mis repositorios públicos, donde aplico conceptos de concurrencia, backend y gestión de datos.
 
-[![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonit0&layout=compact&theme=dracula&hide_border=true)](https://github.com/Nonit0)
+| Proyecto | Descripción | Stack Principal |
+| :--- | :--- | :--- |
+| **[🛒 Gestión Supermercado](https://github.com/Nonit0/Gestion-de-MultiHilos-Supermercado)** | Simulación de colas y cajas utilizando programación concurrente y gestión de hilos. | `Java` `Threads` |
+| **[📡 Servidor TCP Multihilo](https://github.com/Nonit0/TCP-Multihilo)** | Implementación de una arquitectura Cliente-Servidor robusta utilizando Sockets y concurrencia. | `Java` `Sockets` `Net` |
+| **[🌉 Puente Evaluable](https://github.com/Nonit0/PuenteEvaluable)** | Resolución clásica del problema del puente de un carril, gestionando prioridades y bloqueos. | `Java` `Concurrency` |
+| **[👕 Proyecto Camisetas](https://github.com/sergiitr/ProyectoCamisetas)** | Aplicación de gestión de inventario/tienda (Colaboración). | `Java` `FullStack` |
+| **[🍃 Spring Web Intro](https://github.com/Nonit0/spring_web)** | Fundamentos de arquitectura Backend y creación de servicios RESTful. | `Spring Boot` `Maven` |
+| **[📊 Excel a Base de Datos](https://github.com/Nonit0/excell2database)** | Utilidad para migrar y procesar grandes volúmenes de datos desde hojas de cálculo a SQL. | `Java` `SQL` `POI` |
+| **[🧵 Taller de Hilos](https://github.com/Nonit0/Taller-Hilos)** | Colección de ejercicios prácticos sobre el ciclo de vida de los hilos y sincronización. | `Java` `Runnable` |
 
 ---
 
